@@ -11,8 +11,6 @@
     "dockerode": "^4.0.5",
     "express": "~4.16.1",
     "get-port": "^4.2.0",
-    "http-proxy-middleware": "^3.0.3",
-    "morgan": "~1.9.1",
-    "uuid": "^11.1.0"
+    "morgan": "~1.9.1"
   }
 }
